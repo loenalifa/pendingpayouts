@@ -4,6 +4,7 @@
   "description": "Discord bot for check Steemit pending payouts",
   "main": "index.js",
   "dependencies": {
+    "eris": "^0.8.2",
     "steem": "^0.6.7"
   }
 }
