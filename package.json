@@ -1,0 +1,9 @@
+{
+  "name": "pendingpayouts-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for check Steemit pending payouts",
+  "main": "index.js",
+  "dependencies": {
+    "steem": "^0.6.7"
+  }
+}
